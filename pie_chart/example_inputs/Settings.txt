@@ -1,0 +1,4 @@
+#FFCDAB,#FFA45C,#8EA6B4,#E7EFF3
+test_output_name.png
+Test title
+

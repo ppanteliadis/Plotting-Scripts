@@ -3,7 +3,8 @@
 # Beautiful plots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Aren't you tired of not being able to plot correctly?
 
-##Incorporating plots in your pipeline is now easier than ever! 
+
+## Incorporating plots in your pipeline is now easier than ever! 
 
 My personal experience with R has been a love-hate relationship. Every time I wanted to plot something I was either frustrated with how long each individual had to be adjusted to the scripts that I had for plotting, or I was amazed by how diverse plots I could produce! 
 
