@@ -10,10 +10,10 @@ My personal experience with R has been a love-hate relationship. Every time I wa
 
 Well, I've decided to start sharing my scripts that are tailor-made to be in your pipeline!
 
-##How to use
+## How to use
 Well, the trickiest part is to set up a `Settings` file for your script. So let's get that out of the way!
 
-###Settings
+### Settings
 Just make a `.txt` file and inside write your configuration. Place it in the directory with the example inputs, or you could use one that it's provided. 
 
 1. Colors in HTML format (ex. #FFFFFF,#000000,...)
